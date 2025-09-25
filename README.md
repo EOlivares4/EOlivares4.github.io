@@ -1,1 +1,28 @@
 # EOlivares4.GitHub.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- This shows up in the window title bar -->
+    <title>My GitHub Pages Site</title>
+  </head>
+  <body>
+    <!-- Everything "inside" the body tag shows up in the browser window -->
+    <h1>My schedule for Fall 2025</h1>
+    <ul>
+      <li>MATH.131</li>
+      <li>IGME.105</li>
+      <li>IGME.110</li>
+      <li>YOPS.10.131</li>
+      <li>STSO.140</li>
+    </ul>
+
+    <h2>Top Games Articles</h2>
+    <ul>
+      <li><a href="https://www.newegg.com/gamer/community/t/news-here-are-metacritics-top-10-games-of-2025-this-year-so-far/2464?srsltid=AfmBOopK_NE66IMY4JEy8nrYXK9vEdF0M6m5nskjTfVcEpZhyEDwweAj" target="_blank">Top 10 Games of 2025 (Newegg)</a></li>
+      <li><a href="https://www.gamespot.com/gallery/best-reviewed-games-2024/2900-5065/" target="_blank">Best Reviewed Games of 2024 (GameSpot)</a></li>
+      <li><a href="https://pentopixels.com/article/best-video-games-2023-final-update" target="_blank">Best Video Games of 2023 (PentoPixels)</a></li>
+      <li><a href="https://chipznstix.com/2023/01/09/nicks-best-of-2022-video-games/" target="_blank">Best Games of 2022 (ChipzNStix)</a></li>
+      <li><a href="https://discuss.grouvee.com/t/top-10-games-of-2021/8743" target="_blank">Top 10 Games of 2021 (Grouvee)</a></li>
+    </ul>
+  </body>
+</html>
