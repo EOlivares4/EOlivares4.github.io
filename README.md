@@ -15,7 +15,6 @@
       <li>YOPS.10.131</li>
       <li>STSO.140</li>
     </ul>
-
     <h2>Top Games Articles</h2>
     <ul>
       <li><a href="https://www.newegg.com/gamer/community/t/news-here-are-metacritics-top-10-games-of-2025-this-year-so-far/2464?srsltid=AfmBOopK_NE66IMY4JEy8nrYXK9vEdF0M6m5nskjTfVcEpZhyEDwweAj" target="_blank">Top 10 Games of 2025 (Newegg)</a></li>
